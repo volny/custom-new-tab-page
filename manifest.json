@@ -1,0 +1,8 @@
+{
+  "name": "Custom new-tab page",
+  "description": "Override the new tab page with an custom template",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": { "newtab": "newtab.html" },
+  "manifest_version": 2
+}
